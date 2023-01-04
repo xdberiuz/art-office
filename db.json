@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "watched": 0,
+      "liked": 0
     }
   ],
   "profile": {
